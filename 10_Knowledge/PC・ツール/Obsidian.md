@@ -10,3 +10,5 @@ updated: 2026-09-10
 - 導入済みプラグイン: Local REST API（port 27124）, LINE Notes Sync（`LINE/日付/` に受信）
 - Local REST API は PC 上のスクリプトから Obsidian を操作する用途向け（クラウドの Claude からは直接届かない）
 - API キーは Vault に書かない
+- 訂正: Vault を OneDrive の外へ移動 → `C:\Users\TK-MAIN-202605\BOT\Obsidian Vault`（git と OneDrive の競合回避）
+- GitHub: https://github.com/TK-Owner/Obsidian-Github（main）。Obsidian Git プラグインで自動同期、Claude Code はこのリポジトリを選んで作業
